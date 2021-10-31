@@ -1,0 +1,31 @@
+.header{
+    height: auto;
+    background-color: crimson;
+    color: white;
+}
+.items_ofhome{
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    text-align: center;
+    position: relative; 
+    padding-top: 5%;
+    
+}
+.learn-more{
+    border: 1px solid white;
+    border-radius: 90px;
+    padding: 10px;
+    margin-top: 600px;
+}
+.learn-more:hover{
+    background-color: rgb(243, 255, 71);
+    cursor: pointer;
+    color: black;
+}
+.header-image img{
+    height: 400px;
+    width: 90%;
+    border-radius: 20px;
+    padding: 30px;
+}

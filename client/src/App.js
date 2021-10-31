@@ -1,14 +1,11 @@
-import './App.css';
+import "./App.css";
 import React from "react";
-import {BrowserRouter,Switch,Route} from "react-router-dom";
-
-const App=()=> {
+import { BrowserRouter, Switch, Route } from "react-router-dom";
+import Home from "./Home";
+const App = () => {
   return (
-  <div>
-    <h1>Hello</h1>
-    <h2>dfd</h2>
-  </div>
+    <Home/>
   );
-}
+};
 
 export default App;
