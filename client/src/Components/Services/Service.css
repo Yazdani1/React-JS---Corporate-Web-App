@@ -1,0 +1,11 @@
+.service-design {
+  height: 300px;
+  width: 100%;
+  margin: 10px;
+}
+.image-design img{
+    height: 200px;
+    background-size: cover;
+    width: 100%;
+    padding: 10px;
+}
